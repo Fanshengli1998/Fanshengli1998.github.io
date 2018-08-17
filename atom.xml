@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fansamaの俱乐部</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.92637.club/"/>
+  <updated>2018-08-16T03:50:41.424Z</updated>
+  <id>http://www.92637.club/</id>
+  
+  <author>
+    <name>Fansama</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>类方法和静态方法</title>
+    <link href="http://www.92637.club/2018/08/04/%E7%B1%BB%E6%96%B9%E6%B3%95%E5%92%8C%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95/"/>
+    <id>http://www.92637.club/2018/08/04/类方法和静态方法/</id>
+    <published>2018-08-04T11:17:17.000Z</published>
+    <updated>2018-08-16T03:50:41.424Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;类方法-classmethod&quot;&gt;&lt;a href=&quot;#类方法-classmethod&quot; class=&quot;headerlink&quot; title=&quot;类方法 @classmethod&quot;&gt;&lt;/a&gt;类方法 @classmethod&lt;/h2&gt;&lt;p&gt;  类方法是操作类的方法，类方法属于类，不属于该类创建的对象&lt;/p&gt;
+&lt;p&gt;  说明:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;类方法需要使用@classmethod装饰器定义&lt;/li&gt;
+&lt;li&gt;类方法的第一个参数用来绑定类，约定写为cls&lt;/li&gt;
+&lt;li&gt;类和对象实例都可以调用类方法&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;类方法不能访问此类创建的对象的属性&lt;/p&gt;
+&lt;p&gt;使用了@classmethod修饰的方法是类专属的，而且是可以通过类名进行调用的。为了能够展示其与一般方法的差异，写一段简单的代码如下：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
+    
+    
+      <category term="calssmethod" scheme="http://www.92637.club/tags/calssmethod/"/>
+    
+      <category term="staticmethod" scheme="http://www.92637.club/tags/staticmethod/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>爬虫Xpath,css语法</title>
+    <link href="http://www.92637.club/2018/07/27/scrapy/"/>
+    <id>http://www.92637.club/2018/07/27/scrapy/</id>
+    <published>2018-07-27T07:59:16.000Z</published>
+    <updated>2018-08-16T03:50:41.394Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2018/07/27/scrapy/xpath1.png&quot; alt=&quot;xpath1&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
+    
+    
+      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
+    
+      <category term="爬虫" scheme="http://www.92637.club/tags/%E7%88%AC%E8%99%AB/"/>
+    
+      <category term="Xpath" scheme="http://www.92637.club/tags/Xpath/"/>
+    
+      <category term="css" scheme="http://www.92637.club/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql 基础命令(一)</title>
+    <link href="http://www.92637.club/2018/07/21/mysql%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4(%E4%B8%80)/"/>
+    <id>http://www.92637.club/2018/07/21/mysql基础命令(一)/</id>
+    <published>2018-07-21T08:11:44.000Z</published>
+    <updated>2018-08-16T03:50:41.380Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2018/07/21/mysql基础命令(一)/mysql.jpg&quot; alt=&quot;mysql&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Mysql" scheme="http://www.92637.club/categories/Mysql/"/>
+    
+    
+      <category term="Mysql" scheme="http://www.92637.club/tags/Mysql/"/>
+    
+      <category term="数据库" scheme="http://www.92637.club/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Numpy(1)</title>
+    <link href="http://www.92637.club/2018/07/20/Numpy/"/>
+    <id>http://www.92637.club/2018/07/20/Numpy/</id>
+    <published>2018-07-20T03:01:04.000Z</published>
+    <updated>2018-08-16T03:50:41.377Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Numpy&quot;&gt;&lt;a href=&quot;#Numpy&quot; class=&quot;headerlink&quot; title=&quot;Numpy&quot;&gt;&lt;/a&gt;Numpy&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2018/07/20/Numpy/numpy.jpg&quot; alt=&quot;numpy&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&quot;1-Numrical-Python-数值的python-应用于数值分析领域的python语言工具&quot;&gt;&lt;a href=&quot;#1-Numrical-Python-数值的python-应用于数值分析领域的python语言工具&quot; class=&quot;headerlink&quot; title=&quot;1.Numrical Python,数值的python,应用于数值分析领域的python语言工具&quot;&gt;&lt;/a&gt;1.Numrical Python,数值的python,应用于数值分析领域的python语言工具&lt;/h2&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
+    
+    
+      <category term="Numpy" scheme="http://www.92637.club/tags/Numpy/"/>
+    
+      <category term="科学计算" scheme="http://www.92637.club/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>scrapy的搭建教程</title>
+    <link href="http://www.92637.club/2018/07/19/%E5%AE%89%E6%8E%92/"/>
+    <id>http://www.92637.club/2018/07/19/安排/</id>
+    <published>2018-07-19T03:01:04.000Z</published>
+    <updated>2018-08-16T03:50:41.415Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://wx3.sinaimg.cn/large/005NRU62gy1ftf9xwwdyyj30f9060mx4.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;gt-安装scrapy&quot;&gt;&lt;a href=&quot;#gt-安装scrapy&quot; class=&quot;headerlink&quot; title=&quot;&amp;gt;    安装scrapy&quot;&gt;&lt;/a&gt;&amp;gt;    安装scrapy&lt;/h2&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
+    
+    
+      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
+    
+      <category term="爬虫" scheme="http://www.92637.club/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>shell基础</title>
+    <link href="http://www.92637.club/2018/07/18/shell%E5%9F%BA%E7%A1%80/"/>
+    <id>http://www.92637.club/2018/07/18/shell基础/</id>
+    <published>2018-07-18T13:05:41.000Z</published>
+    <updated>2018-08-16T03:50:41.401Z</updated>
+    
+    <summary type="html">
+    
+      &lt;pre&gt;&lt;code&gt;1、shell编程
+
+2、解释执行器
+    1、sh
+    2、bash
+    ##/etc/passwd查看用户的默认bash,sh解释执行器没有高亮显示,也没有自动补全
+
+3、shell编程
+
+    1、所有的shell文件都是以 .sh 结尾
+
+    2、执行方式：
+        1、方式1
+            1、chmod +x ***.sh
+            2、./***.sh
+        2、方式2
+            sh ***.sh
+    3、示例
+        写一个shell文件,t1.sh,要求在用户主目录下创建目录AID18/mydir1,执行t1.sh验证结果
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+      <category term="shell" scheme="http://www.92637.club/categories/shell/"/>
+    
+    
+      <category term="shell命令" scheme="http://www.92637.club/tags/shell%E5%91%BD%E4%BB%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux命令</title>
+    <link href="http://www.92637.club/2018/07/18/Linux%E5%91%BD%E4%BB%A4/"/>
+    <id>http://www.92637.club/2018/07/18/Linux命令/</id>
+    <published>2018-07-18T12:52:41.000Z</published>
+    <updated>2018-08-16T03:50:41.376Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;常用Linux系统&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;   RedHat&lt;br&gt;   CentOS&lt;br&gt;   Ubuntu&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;Linux常用命令 &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;1、ifconfig (windows ipconfig)
+    查看本机IP地址及MAC地址
+
+2、ping
+    测试网络连通性
+    -c 可指定连接次数 ：ping 192.168.3.1 -c 3
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.92637.club/categories/Linux/"/>
+    
+    
+      <category term="Linux基础" scheme="http://www.92637.club/tags/Linux%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>治愈插画</title>
+    <link href="http://www.92637.club/2018/07/17/qinggan2/"/>
+    <id>http://www.92637.club/2018/07/17/qinggan2/</id>
+    <published>2018-07-17T10:39:58.000Z</published>
+    <updated>2018-08-16T03:50:41.382Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;总有一束光能照亮我们的生活。作者：韩国插画师endmion1-（转）&quot;&gt;&lt;a href=&quot;#总有一束光能照亮我们的生活。作者：韩国插画师endmion1-（转）&quot; class=&quot;headerlink&quot; title=&quot;总有一束光能照亮我们的生活。作者：韩国插画师endmion1  （转）&quot;&gt;&lt;/a&gt;总有一束光能照亮我们的生活。作者：韩国插画师endmion1  （转）&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2018/07/17/qinggan2/1.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2018/07/17/qinggan2/2.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活随笔" scheme="http://www.92637.club/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="美图" scheme="http://www.92637.club/tags/%E7%BE%8E%E5%9B%BE/"/>
+    
+      <category term="插画" scheme="http://www.92637.club/tags/%E6%8F%92%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>备忘</title>
+    <link href="http://www.92637.club/2018/07/17/qinggan1/"/>
+    <id>http://www.92637.club/2018/07/17/qinggan1/</id>
+    <published>2018-07-16T18:14:09.000Z</published>
+    <updated>2018-08-16T03:50:41.382Z</updated>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;sys.path.insert(&lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;,os.path.join(base_dir,apps))&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;sys.path.insert()    向系统搜索路径中添加搜索目录,程序退出后,即撤销&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;base_dir   当前工作的根目录&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;os.path.join()   将返回的路径进行拼接，拼成一个路径&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;os.path.dirname(os.path.abspath(__file__))   获取当前文件的父文件夹&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;os.path.abspath(__file__)    获取当前文件的路径&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;pip install -i http://pypi.douban.com/simple 模块名 linux和windows&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;sudo apt-get install libmysqlclient-dev  乌班图&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;sudo yum install python-devel mysql-devel centos&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.92637.club/tags/Python/"/>
+    
+      <category term="mysql" scheme="http://www.92637.club/tags/mysql/"/>
+    
+      <category term="Django" scheme="http://www.92637.club/tags/Django/"/>
+    
+      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【逗鱼时刻】第159期 生于惊奇 死于针奇</title>
+    <link href="http://www.92637.club/2018/07/17/shenghuo/"/>
+    <id>http://www.92637.club/2018/07/17/shenghuo/</id>
+    <published>2018-07-16T17:14:09.000Z</published>
+    <updated>2018-08-16T03:50:41.402Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;【逗鱼时刻】第159期 生于惊奇 死于针奇&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="趣事乐闻" scheme="http://www.92637.club/categories/%E8%B6%A3%E4%BA%8B%E4%B9%90%E9%97%BB/"/>
+    
+    
+      <category term="生活随笔" scheme="http://www.92637.club/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>斯人若彩虹,遇上方知有。</title>
+    <link href="http://www.92637.club/2018/07/16/92637/"/>
+    <id>http://www.92637.club/2018/07/16/92637/</id>
+    <published>2018-07-16T03:14:09.000Z</published>
+    <updated>2018-08-16T03:50:41.368Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;愿你如三月的春风，六月的细雨，九月的骄阳，冬月的初雪。&quot;&gt;&lt;a href=&quot;#愿你如三月的春风，六月的细雨，九月的骄阳，冬月的初雪。&quot; class=&quot;headerlink&quot; title=&quot;愿你如三月的春风，六月的细雨，九月的骄阳，冬月的初雪。&quot;&gt;&lt;/a&gt;愿你如三月的春风，六月的细雨，九月的骄阳，冬月的初雪。&lt;/h3&gt;&lt;h3 id=&quot;愿你此生都可以像我们初见时那般耀眼。&quot;&gt;&lt;a href=&quot;#愿你此生都可以像我们初见时那般耀眼。&quot; class=&quot;headerlink&quot; title=&quot;愿你此生都可以像我们初见时那般耀眼。&quot;&gt;&lt;/a&gt;愿你此生都可以像我们初见时那般耀眼。&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/2018/07/16/92637/prxd.jpg&quot; alt=&quot;图1&quot; title=&quot;怦然心动&quot;&gt; &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="个人情感" scheme="http://www.92637.club/categories/%E4%B8%AA%E4%BA%BA%E6%83%85%E6%84%9F/"/>
+    
+    
+      <category term="个人情感" scheme="http://www.92637.club/tags/%E4%B8%AA%E4%BA%BA%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
+  
+</feed>
