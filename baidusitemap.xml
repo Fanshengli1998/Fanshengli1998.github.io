@@ -3,6 +3,21 @@
 
 
     
+  <url>
+    <loc>http://www.92637.club/2018/08/19/Git%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2018-08-19T11:57:03.653Z</lastmod>
+    <data>
+        <display>
+        <title></title>
+        <pubTime>2018-08-19T11:54:55.390Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
     
     
     
@@ -37,9 +52,9 @@
         <title>scrapy的搭建教程</title>
         <pubTime>2018-07-19T03:01:04.000Z</pubTime>
         
-        <tag>scrapy</tag>
-         
         <tag>爬虫</tag>
+         
+        <tag>scrapy</tag>
          
          
            
@@ -99,13 +114,39 @@
         <title>爬虫Xpath,css语法</title>
         <pubTime>2018-07-27T07:59:16.000Z</pubTime>
         
-        <tag>scrapy</tag>
-         
         <tag>爬虫</tag>
+         
+        <tag>scrapy</tag>
          
         <tag>Xpath</tag>
          
         <tag>css</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="http://www.92637.club/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.92637.club/2018/07/17/qinggan1/</loc>
+    <lastmod>2018-08-16T03:50:41.382Z</lastmod>
+    <data>
+        <display>
+        <title>备忘</title>
+        <pubTime>2018-07-16T18:14:09.000Z</pubTime>
+        
+        <tag>scrapy</tag>
+         
+        <tag>Python</tag>
+         
+        <tag>mysql</tag>
+         
+        <tag>Django</tag>
          
          
            
@@ -133,32 +174,6 @@
            
              
               <breadCrumb title="生活随笔" url="http://www.92637.club/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.92637.club/2018/07/17/qinggan1/</loc>
-    <lastmod>2018-08-16T03:50:41.382Z</lastmod>
-    <data>
-        <display>
-        <title>备忘</title>
-        <pubTime>2018-07-16T18:14:09.000Z</pubTime>
-        
-        <tag>Python</tag>
-         
-        <tag>mysql</tag>
-         
-        <tag>Django</tag>
-         
-        <tag>scrapy</tag>
-         
-         
-           
-             
-              <breadCrumb title="Python" url="http://www.92637.club/categories/Python/"/>
           
         </display>
     </data>

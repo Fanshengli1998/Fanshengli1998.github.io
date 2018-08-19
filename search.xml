@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>%2F2018%2F08%2F19%2FGit%E5%91%BD%E4%BB%A4%2F</url>
+    <content type="text"><![CDATA[title: Git命令date: 2018-08-19 19:54:55tags: git categories: git命令— 简易的命令行入门教程: Git 全局设置: 123git config --global user.name &quot;You Name&quot;git config --global user.email &quot;You Email&quot; 创建 git 仓库: mkdir Python cd Python git init touch README.md git add README.md git commit -m “first commit” git remote add origin 你的远程仓库地址 git pull –rebase origin master git push origin master 或 git push -u origin master 已有项目? cd existing_git_repo git remote add origin 你的远程仓库地址 git push -u origin master]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[类方法和静态方法]]></title>
     <url>%2F2018%2F08%2F04%2F%E7%B1%BB%E6%96%B9%E6%B3%95%E5%92%8C%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95%2F</url>
     <content type="text"><![CDATA[类方法 @classmethod 类方法是操作类的方法，类方法属于类，不属于该类创建的对象 说明: 类方法需要使用@classmethod装饰器定义 类方法的第一个参数用来绑定类，约定写为cls 类和对象实例都可以调用类方法 类方法不能访问此类创建的对象的属性 使用了@classmethod修饰的方法是类专属的，而且是可以通过类名进行调用的。为了能够展示其与一般方法的差异，写一段简单的代码如下： 1234567891011121314class DemoClass: @classmethod def classPrint(self): print("class method") def objPrint(self): print("obj method")if __name__=="__main__": obj = DemoClass() obj.objPrint() obj.classPrint() DemoClass.classPrint() DemoClass.objPrint() obj method class method class method --------------------------------------------------------------------------- TypeError Traceback (most recent call last) &lt;ipython-input-2-9f1a4cb12823&gt; in &lt;module&gt;() 12 obj.classPrint() 13 DemoClass.classPrint() ---&gt; 14 DemoClass.objPrint() TypeError: objPrint() missing 1 required positional argument: &apos;self&apos; 静态方法 ＠staticmathod 静态方法是定义在类的内部的函数，此函数作用域是类的内部 说明: 静态方法需要使用@staticmethod装饰器定义 静态方法与普通函数的定义相同，不需要传入self和cls 静态方法只能凭借该类和实例来调用 静态方法不能访问类变量和实例变量 123456789class A: @staticmethod def myadd(a, b): return a + bif __name__=="__main__": print(A.myadd(100, 200)) a = A() print(a.myadd(300, 400)) 300 700 Static Method 那么@staticmethod呢？其实它跟@classmethod非常相似，只是它没有任何必需的参数。 假设我们要去检验一个日期的字符串是否有效。这个任务与Date类相关，但是又不需要Date实例对象，在这样的情况下@staticmethod就可以派上用场了。如下： 12345678910111213141516class Date(object): def __init__(self, day=0, month=0, year=0): self.day = day self.month = month self.year = year @staticmethod def is_date_valid(date_as_string): day, month, year = map(int, date_as_string.split('-')) return day &lt;= 31 and month &lt;= 12 and year &lt;= 3999 if __name__=="__main__": # usage: is_date = Date.is_date_valid('11-09-2012') print(is_date) True 从上面的用法可以看出，它只是一个功能，调用的语法和一般的方法调用一样，也不访问实例对象那和它的内部字段和方法。]]></content>
@@ -20,8 +25,8 @@
         <category>Python</category>
       </categories>
       <tags>
-        <tag>scrapy</tag>
         <tag>爬虫</tag>
+        <tag>scrapy</tag>
         <tag>Xpath</tag>
         <tag>css</tag>
       </tags>
@@ -58,8 +63,8 @@
         <category>Python</category>
       </categories>
       <tags>
-        <tag>scrapy</tag>
         <tag>爬虫</tag>
+        <tag>scrapy</tag>
       </tags>
   </entry>
   <entry>
@@ -104,10 +109,10 @@
         <category>Python</category>
       </categories>
       <tags>
+        <tag>scrapy</tag>
         <tag>Python</tag>
         <tag>mysql</tag>
         <tag>Django</tag>
-        <tag>scrapy</tag>
       </tags>
   </entry>
   <entry>

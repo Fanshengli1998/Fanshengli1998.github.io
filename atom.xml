@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.92637.club/"/>
-  <updated>2018-08-16T03:50:41.424Z</updated>
+  <updated>2018-08-19T11:57:03.653Z</updated>
   <id>http://www.92637.club/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.92637.club/2018/08/19/Git%E5%91%BD%E4%BB%A4/"/>
+    <id>http://www.92637.club/2018/08/19/Git命令/</id>
+    <published>2018-08-19T11:54:55.390Z</published>
+    <updated>2018-08-19T11:57:03.653Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;title: Git命令&lt;br&gt;date: 2018-08-19 19:54:55&lt;br&gt;tags: git ca&lt;br&gt;tegories: git命令—&lt;/p&gt;
+&lt;p&gt;简易的命令行入门教程:&lt;/p&gt;
+&lt;p&gt;Git 全局设置:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git config --global user.name &amp;quot;You Name&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git config --global user.email &amp;quot;You Email&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>类方法和静态方法</title>
@@ -63,9 +83,9 @@
       <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
     
     
-      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
-    
       <category term="爬虫" scheme="http://www.92637.club/tags/%E7%88%AC%E8%99%AB/"/>
+    
+      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
     
       <category term="Xpath" scheme="http://www.92637.club/tags/Xpath/"/>
     
@@ -136,9 +156,9 @@
       <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
     
     
-      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
-    
       <category term="爬虫" scheme="http://www.92637.club/tags/%E7%88%AC%E8%99%AB/"/>
+    
+      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
     
   </entry>
   
@@ -252,13 +272,13 @@
       <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
     
     
+      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
+    
       <category term="Python" scheme="http://www.92637.club/tags/Python/"/>
     
       <category term="mysql" scheme="http://www.92637.club/tags/mysql/"/>
     
       <category term="Django" scheme="http://www.92637.club/tags/Django/"/>
-    
-      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
     
   </entry>
   
