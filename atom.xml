@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.92637.club/"/>
-  <updated>2018-08-19T12:00:52.866Z</updated>
+  <updated>2018-08-20T08:06:35.421Z</updated>
   <id>http://www.92637.club/</id>
   
   <author>
@@ -17,22 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Git命令</title>
     <link href="http://www.92637.club/2018/08/19/Git%E5%91%BD%E4%BB%A4/"/>
     <id>http://www.92637.club/2018/08/19/Git命令/</id>
-    <published>2018-08-19T11:54:55.390Z</published>
-    <updated>2018-08-19T12:00:52.866Z</updated>
+    <published>2018-08-19T11:54:55.000Z</published>
+    <updated>2018-08-20T08:06:35.421Z</updated>
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;p&gt;title: Git命令&lt;br&gt;date: 2018-08-19 19:54:55&lt;br&gt;tags: git ca&lt;br&gt;tegories: git命令—&lt;/p&gt;
-&lt;p&gt;简易的命令行入门教程:&lt;/p&gt;
+      &lt;p&gt;简易的命令行入门教程:&lt;/p&gt;
 &lt;p&gt;Git 全局设置:&lt;/p&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git config --global user.name &amp;quot;You Name&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git config --global user.email &amp;quot;You Email&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
+      <category term="git命令" scheme="http://www.92637.club/categories/git%E5%91%BD%E4%BB%A4/"/>
+    
+    
+      <category term="git" scheme="http://www.92637.club/tags/git/"/>
     
   </entry>
   
@@ -64,22 +66,6 @@
       <category term="calssmethod" scheme="http://www.92637.club/tags/calssmethod/"/>
     
       <category term="staticmethod" scheme="http://www.92637.club/tags/staticmethod/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>太在乎一个人</title>
-    <link href="http://www.92637.club/2018/08/01/%E5%A4%AA%E5%9C%A8%E4%B9%8E%E4%B8%80%E4%B8%AA%E4%BA%BA/"/>
-    <id>http://www.92637.club/2018/08/01/太在乎一个人/</id>
-    <published>2018-08-01T11:07:17.000Z</published>
-    <updated>2018-08-19T11:59:28.494Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2018/08/01/太在乎一个人/2.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
     
   </entry>
   
