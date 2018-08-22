@@ -4,6 +4,48 @@
 
     
   <url>
+    <loc>http://www.92637.club/2018/08/22/Python%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2018-08-22T13:22:02.664Z</lastmod>
+    <data>
+        <display>
+        <title>Python虚拟环境安装</title>
+        <pubTime>2018-08-22T13:05:53.000Z</pubTime>
+        
+        <tag>环境安装</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="http://www.92637.club/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.92637.club/2018/08/22/Pycharm%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2018-08-22T13:18:24.425Z</lastmod>
+    <data>
+        <display>
+        <title>Pycharm破解方法</title>
+        <pubTime>2018-08-22T13:06:46.000Z</pubTime>
+        
+        <tag>Python</tag>
+         
+        <tag>Pycharm</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="http://www.92637.club/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.92637.club/2018/08/19/Git%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2018-08-20T08:06:35.421Z</lastmod>
     <data>
@@ -70,6 +112,68 @@
 
     
   <url>
+    <loc>http://www.92637.club/2018/07/19/%E5%AE%89%E6%8E%92/</loc>
+    <lastmod>2018-08-16T03:50:41.415Z</lastmod>
+    <data>
+        <display>
+        <title>scrapy的搭建教程</title>
+        <pubTime>2018-07-19T03:01:04.000Z</pubTime>
+        
+        <tag>scrapy</tag>
+         
+        <tag>爬虫</tag>
+         
+         
+           
+             
+              <breadCrumb title="Python" url="http://www.92637.club/categories/Python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.92637.club/2018/07/17/shenghuo/</loc>
+    <lastmod>2018-08-16T03:50:41.402Z</lastmod>
+    <data>
+        <display>
+        <title>【逗鱼时刻】第159期 生于惊奇 死于针奇</title>
+        <pubTime>2018-07-16T17:14:09.000Z</pubTime>
+        
+        <tag>生活随笔</tag>
+         
+         
+           
+             
+              <breadCrumb title="趣事乐闻" url="http://www.92637.club/categories/%E8%B6%A3%E4%BA%8B%E4%B9%90%E9%97%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.92637.club/2018/07/18/shell%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2018-08-16T03:50:41.401Z</lastmod>
+    <data>
+        <display>
+        <title>shell基础</title>
+        <pubTime>2018-07-18T13:05:41.000Z</pubTime>
+        
+        <tag>shell命令</tag>
+         
+         
+           
+             
+              <breadCrumb title="shell" url="http://www.92637.club/categories/shell/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.92637.club/2018/07/27/scrapy/</loc>
     <lastmod>2018-08-16T03:50:41.394Z</lastmod>
     <data>
@@ -77,9 +181,9 @@
         <title>爬虫Xpath,css语法</title>
         <pubTime>2018-07-27T07:59:16.000Z</pubTime>
         
-        <tag>爬虫</tag>
-         
         <tag>scrapy</tag>
+         
+        <tag>爬虫</tag>
          
         <tag>Xpath</tag>
          
@@ -103,13 +207,13 @@
         <title>备忘</title>
         <pubTime>2018-07-16T18:14:09.000Z</pubTime>
         
-        <tag>scrapy</tag>
-         
         <tag>Python</tag>
          
         <tag>mysql</tag>
          
         <tag>Django</tag>
+         
+        <tag>scrapy</tag>
          
          
            
@@ -188,70 +292,8 @@
 
     
   <url>
-    <loc>http://www.92637.club/2018/07/16/92637/</loc>
-    <lastmod>2018-08-16T03:50:41.368Z</lastmod>
-    <data>
-        <display>
-        <title>斯人若彩虹,遇上方知有。</title>
-        <pubTime>2018-07-16T03:14:09.000Z</pubTime>
-        
-        <tag>个人情感</tag>
-         
-         
-           
-             
-              <breadCrumb title="个人情感" url="http://www.92637.club/categories/%E4%B8%AA%E4%BA%BA%E6%83%85%E6%84%9F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.92637.club/2018/07/19/%E5%AE%89%E6%8E%92/</loc>
-    <lastmod>2018-07-27T08:02:54.221Z</lastmod>
-    <data>
-        <display>
-        <title>scrapy的搭建教程</title>
-        <pubTime>2018-07-19T03:01:04.000Z</pubTime>
-        
-        <tag>爬虫</tag>
-         
-        <tag>scrapy</tag>
-         
-         
-           
-             
-              <breadCrumb title="Python" url="http://www.92637.club/categories/Python/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.92637.club/2018/07/17/shenghuo/</loc>
-    <lastmod>2018-07-21T03:11:47.175Z</lastmod>
-    <data>
-        <display>
-        <title>【逗鱼时刻】第159期 生于惊奇 死于针奇</title>
-        <pubTime>2018-07-16T17:14:09.000Z</pubTime>
-        
-        <tag>生活随笔</tag>
-         
-         
-           
-             
-              <breadCrumb title="趣事乐闻" url="http://www.92637.club/categories/%E8%B6%A3%E4%BA%8B%E4%B9%90%E9%97%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.92637.club/2018/07/18/Linux%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2018-07-20T14:42:30.000Z</lastmod>
+    <lastmod>2018-08-16T03:50:41.376Z</lastmod>
     <data>
         <display>
         <title>Linux命令</title>
@@ -270,19 +312,19 @@
 
     
   <url>
-    <loc>http://www.92637.club/2018/07/18/shell%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2018-07-20T14:42:30.000Z</lastmod>
+    <loc>http://www.92637.club/2018/07/16/92637/</loc>
+    <lastmod>2018-08-16T03:50:41.368Z</lastmod>
     <data>
         <display>
-        <title>shell基础</title>
-        <pubTime>2018-07-18T13:05:41.000Z</pubTime>
+        <title>斯人若彩虹,遇上方知有。</title>
+        <pubTime>2018-07-16T03:14:09.000Z</pubTime>
         
-        <tag>shell命令</tag>
+        <tag>个人情感</tag>
          
          
            
              
-              <breadCrumb title="shell" url="http://www.92637.club/categories/shell/"/>
+              <breadCrumb title="个人情感" url="http://www.92637.club/categories/%E4%B8%AA%E4%BA%BA%E6%83%85%E6%84%9F/"/>
           
         </display>
     </data>

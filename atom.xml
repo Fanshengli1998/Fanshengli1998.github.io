@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.92637.club/"/>
-  <updated>2018-08-20T08:06:35.421Z</updated>
+  <updated>2018-08-22T13:18:24.425Z</updated>
   <id>http://www.92637.club/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Pycharm破解方法</title>
+    <link href="http://www.92637.club/2018/08/22/Pycharm%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95/"/>
+    <id>http://www.92637.club/2018/08/22/Pycharm破解方法/</id>
+    <published>2018-08-22T13:06:46.000Z</published>
+    <updated>2018-08-22T13:18:24.425Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;优点：到期时间为2099年，基本为永久啦&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt; 缺点：相对服务器激活麻烦些，但是一共只需要3个步骤，其实并不麻烦&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.92637.club/tags/Python/"/>
+    
+      <category term="Pycharm" scheme="http://www.92637.club/tags/Pycharm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python虚拟环境安装</title>
+    <link href="http://www.92637.club/2018/08/22/Python%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/"/>
+    <id>http://www.92637.club/2018/08/22/Python虚拟环境安装/</id>
+    <published>2018-08-22T13:05:53.000Z</published>
+    <updated>2018-08-22T13:22:02.664Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Windows:&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;pip install virtualenv &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;activate.bat 进入虚拟环境&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;deactivate.bat 退出环境&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;pip install virtualenvwrapper-win 虚拟环境管理&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;workon 查看所有虚拟环境 设置环境变量WORKON_HOME   E:\Envs&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;创建的新环境就会在环境变量的文件夹下&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mkvirtualenv 环境名称&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;mkvirtualenv --python=(python版本的路径) 环境名称&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
+    
+    
+      <category term="环境安装" scheme="http://www.92637.club/tags/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
   
   <entry>
     <title>Git命令</title>
@@ -85,9 +133,9 @@
       <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
     
     
-      <category term="爬虫" scheme="http://www.92637.club/tags/%E7%88%AC%E8%99%AB/"/>
-    
       <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
+    
+      <category term="爬虫" scheme="http://www.92637.club/tags/%E7%88%AC%E8%99%AB/"/>
     
       <category term="Xpath" scheme="http://www.92637.club/tags/Xpath/"/>
     
@@ -146,7 +194,7 @@
     <link href="http://www.92637.club/2018/07/19/%E5%AE%89%E6%8E%92/"/>
     <id>http://www.92637.club/2018/07/19/安排/</id>
     <published>2018-07-19T03:01:04.000Z</published>
-    <updated>2018-07-27T08:02:54.221Z</updated>
+    <updated>2018-08-16T03:50:41.415Z</updated>
     
     <summary type="html">
     
@@ -158,9 +206,9 @@
       <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
     
     
-      <category term="爬虫" scheme="http://www.92637.club/tags/%E7%88%AC%E8%99%AB/"/>
-    
       <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
+    
+      <category term="爬虫" scheme="http://www.92637.club/tags/%E7%88%AC%E8%99%AB/"/>
     
   </entry>
   
@@ -169,7 +217,7 @@
     <link href="http://www.92637.club/2018/07/18/shell%E5%9F%BA%E7%A1%80/"/>
     <id>http://www.92637.club/2018/07/18/shell基础/</id>
     <published>2018-07-18T13:05:41.000Z</published>
-    <updated>2018-07-20T14:42:30.000Z</updated>
+    <updated>2018-08-16T03:50:41.401Z</updated>
     
     <summary type="html">
     
@@ -208,7 +256,7 @@
     <link href="http://www.92637.club/2018/07/18/Linux%E5%91%BD%E4%BB%A4/"/>
     <id>http://www.92637.club/2018/07/18/Linux命令/</id>
     <published>2018-07-18T12:52:41.000Z</published>
-    <updated>2018-07-20T14:42:30.000Z</updated>
+    <updated>2018-08-16T03:50:41.376Z</updated>
     
     <summary type="html">
     
@@ -274,13 +322,13 @@
       <category term="Python" scheme="http://www.92637.club/categories/Python/"/>
     
     
-      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
-    
       <category term="Python" scheme="http://www.92637.club/tags/Python/"/>
     
       <category term="mysql" scheme="http://www.92637.club/tags/mysql/"/>
     
       <category term="Django" scheme="http://www.92637.club/tags/Django/"/>
+    
+      <category term="scrapy" scheme="http://www.92637.club/tags/scrapy/"/>
     
   </entry>
   
@@ -289,7 +337,7 @@
     <link href="http://www.92637.club/2018/07/17/shenghuo/"/>
     <id>http://www.92637.club/2018/07/17/shenghuo/</id>
     <published>2018-07-16T17:14:09.000Z</published>
-    <updated>2018-07-21T03:11:47.175Z</updated>
+    <updated>2018-08-16T03:50:41.402Z</updated>
     
     <summary type="html">
     

@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Pycharm破解方法]]></title>
+    <url>%2F2018%2F08%2F22%2FPycharm%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95%2F</url>
+    <content type="text"><![CDATA[优点：到期时间为2099年，基本为永久啦 缺点：相对服务器激活麻烦些，但是一共只需要3个步骤，其实并不麻烦 下载 http://idea.lanyus.com/jar/JetbrainsCrack-3.1-release-enc.jar 并将 JJetbrainsCrack-3.1-release-enc.jar 放置到 D盘根目录。 附上链接: https://pan.baidu.com/s/10IthW3BSJRPIzqhXGdcHog 密码: 9f7x 在 Pycharm安装目录的\bin目录下找到 pycharm.exe.vmoptions 和 pycharm64.exe.vmoptions ，以文本格式打开并同时在两个文件最后追加 -javaagent:D:/JetbrainsCrack-3.1-release-enc.jar，然后保存。 启动 IntelliJ IDEA ,选择激活码激活，输入如下内容激活 ThisCrackLicenseId-{“licenseId”:”12345”,“licenseeName”:”Fansama”,“assigneeName”:”旋律”,“assigneeEmail”:”1174293648@qq.com“,“licenseRestriction”:””,“checkConcurrentUse”:false,“products”:[{“code”:”II”,”paidUpTo”:”2099-12-31”},{“code”:”DM”,”paidUpTo”:”2099-12-31”},{“code”:”AC”,”paidUpTo”:”2099-12-31”},{“code”:”RS0”,”paidUpTo”:”2099-12-31”},{“code”:”WS”,”paidUpTo”:”2099-12-31”},{“code”:”DPN”,”paidUpTo”:”2099-12-31”},{“code”:”RC”,”paidUpTo”:”2099-12-31”},{“code”:”PS”,”paidUpTo”:”2099-12-31”},{“code”:”DC”,”paidUpTo”:”2099-12-31”},{“code”:”RM”,”paidUpTo”:”2099-12-31”},{“code”:”CL”,”paidUpTo”:”2099-12-31”},{“code”:”PC”,”paidUpTo”:”2099-12-31”}],“hash”:”2911276/0”,“gracePeriodDays”:7,“autoProlongated”:false}]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>Pycharm</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python虚拟环境安装]]></title>
+    <url>%2F2018%2F08%2F22%2FPython%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%2F</url>
+    <content type="text"><![CDATA[Windows: 12345678pip install virtualenv activate.bat 进入虚拟环境deactivate.bat 退出环境pip install virtualenvwrapper-win 虚拟环境管理workon 查看所有虚拟环境 设置环境变量WORKON_HOME E:\Envs创建的新环境就会在环境变量的文件夹下mkvirtualenv 环境名称mkvirtualenv --python=(python版本的路径) 环境名称 Linux: 123456789101112131415 sudo apt-get install python-virtualenv source activate 进入虚拟环境 deactivate 退出环境 pip install virtualenvwrapper 虚拟环境管理 sudo find / -name virtualenvwrapper.sh -- 查找该文件的路径 vim ~/.bashrc 进入最后一行 export WORKON_HOME=$HOME/.virtualenvs #RTUALENVWRAPPER_PYTHON='/usr/bin/python3' source 刚才查找到的脚本路径 :wq source ~/.bashrcvirtualenv 虚拟环境名 ---创建环境virtualenv -p python版本的文件目录(指定到python.exe)虚拟环境名 ---创建环境 —————-环境导出—————— 在开发环境中 pip freeze &gt; requirement.txt3.上传requirement.txt生产环境之后，pip install -r requirement.txt]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>环境安装</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Git命令]]></title>
     <url>%2F2018%2F08%2F19%2FGit%E5%91%BD%E4%BB%A4%2F</url>
     <content type="text"><![CDATA[简易的命令行入门教程: Git 全局设置: 123git config --global user.name &quot;You Name&quot;git config --global user.email &quot;You Email&quot; 创建 git 仓库: mkdir Python cd Python git init touch README.md git add README.md git commit -m “first commit” git remote add origin 你的远程仓库地址 git pull –rebase origin master git push origin master 或 git push -u origin master 已有项目? cd existing_git_repo git remote add origin 你的远程仓库地址 git push -u origin master]]></content>
@@ -31,8 +54,8 @@
         <category>Python</category>
       </categories>
       <tags>
-        <tag>爬虫</tag>
         <tag>scrapy</tag>
+        <tag>爬虫</tag>
         <tag>Xpath</tag>
         <tag>css</tag>
       </tags>
@@ -69,8 +92,8 @@
         <category>Python</category>
       </categories>
       <tags>
-        <tag>爬虫</tag>
         <tag>scrapy</tag>
+        <tag>爬虫</tag>
       </tags>
   </entry>
   <entry>
@@ -115,10 +138,10 @@
         <category>Python</category>
       </categories>
       <tags>
-        <tag>scrapy</tag>
         <tag>Python</tag>
         <tag>mysql</tag>
         <tag>Django</tag>
+        <tag>scrapy</tag>
       </tags>
   </entry>
   <entry>
@@ -146,7 +169,7 @@
   <entry>
     <title><![CDATA[美好的记忆]]></title>
     <url>%2F2018%2F07%2F15%2F%E4%B8%AA%E4%BA%BA%E6%83%85%E6%84%9F1%2F</url>
-    <content type="text"><![CDATA[输入出生年月日 Decrypt U2FsdGVkX19hg8BeSM6Jv7NnyXlVJJRNHNd0ByHK7SdXTV9sPCTZ+1FamW4i47m87cD4+CZHEYchiyDcbTGJPYe43lWQD72KYWLxd7qbMn7t5Q6PaNYo5aWtOZsVJlse8gSB8fbkBfRYCQhrIscUNRk/zxFKPejSCxndBAne3Yjk+Qs2IIVLmVtZcrO/5Osp7n1YGyKsV1h1VGpw532p6GCiaRUc7iVPtXT3JyMsBYlozW12QG242SvVV+ejxMuPMFBJGNOJQDPigX9kzKszjg/RxC+SJ/DtObXVbkYUZ80rUaPNTYn/RefqYuQDmhwuapajOmdXs01R2ORSBphk7xhchr7TA0oRzqvDMgsCmESCgF/eUbL/fLYu7JbTRJe9GVCtijo67cEkOJO7f8Z/TU+mo2W3mk+sxNUMJdqrFEQT70dsHTjQWkWYbuiK/aPFGrYGdn+iFUACySodKXNDznXOAnXQmTscxzgPXF3GfRPrnCFgb98yzFXpWO8zZ5RXEJH+553eDLC2RPNDxVnPWF7hH1P2ch535AeWJ8DGUSpwENB779NrWCCMAiVgAYnu]]></content>
+    <content type="text"><![CDATA[输入出生年月日 Decrypt U2FsdGVkX183soQfr9bVESVkYLbhCdF7P5H/5OC2dGoZYLZhtRfN3DmdhipsyFcLkO1KwWzrE+zolQPYwwjaaIpSgjbiGBbsL8o1IAxt8+YAj5esjF0ZeKFqNcGsjuIjMgN5bT60RB9yYz+R0TWq/4C2NN0DZ37AjKs2JukG9ZHPbePpU9mSnzHl0Roy5tRYe7z+oizRjyJrzNLJXpbYcYFXfHjwtpJxU31SC65/wUcwBnBDfph4ic23h0sfzRZ6lzEgalH2pMZsufm6U7NouipPmm2kfplV1fkdCvcFde3uVWE6Ho2oFIrnuHiDhaQWMFsfumXspNC2F+v4Go9cFxPO3OokEJ9hVHz/wcPwr/a5FhYiXXhkUWp55WoLZULsO4rmNgYFy+FTApQ8UeRWg3aUM/+JthpslHSlsBrUXci7FKEH3CUyeHhEYbWzJg+Gk0d3F/oE/aKLJ+/hVSsmpUBjc6E2v3lAGivquhb96GGqeCOCzM8V5x3TUDiEalbx8IpGjHqFE9hUFfr5hL8gx4DrdFviAEdM6shTXTTfpzmA7O67Wdx3k68QRD+PxYXT]]></content>
       <categories>
         <category>个人情感</category>
       </categories>
